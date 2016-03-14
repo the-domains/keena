@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Work with Keena to Awaken Your Wild Soul
-datePublished: '2016-03-14T20:04:29.619Z'
-dateModified: '2016-03-14T20:04:28.306Z'
+description: ''
+datePublished: '2016-03-14T20:56:37.569Z'
+dateModified: '2016-03-14T20:07:09.043Z'
 title: Awaken Your Wild Soul
 author: []
+sourcePath: _posts/2016-03-14-awaken-your-wild-soul.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-awaken-your-wild-soul.md
-published: true
 url: awaken-your-wild-soul/index.html
-_type: WebPage
+_type: Article
 
 ---
 Awaken Your Wild Soul
