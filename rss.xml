@@ -4,8 +4,15 @@
         <description><![CDATA[AWAKEN YOUR WILD SOUL with Keena]]></description>
         <link>https://thegrid.ai/keena/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 22:37:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 22:46:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/keena/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ART]]></title>
+            <description><![CDATA[<article><h1>ART</h1><p>Currently available artwork by Keena</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9dbe7b198468cd2f036c37c6688926dde12e300a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/keena/a7583e3c-661d-4261-971e-1b959d45db56/index.html</link>
+            <guid isPermaLink="false">a7583e3c-661d-4261-971e-1b959d45db56</guid>
+            <pubDate>Mon, 14 Mar 2016 22:45:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Keena]]></title>
             <description><![CDATA[<article><h1>About Keena</h1><p>KEENA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24d791c9b8703f8c2607e56aa09f17114d7d1dc1.png"></article>]]></description>
