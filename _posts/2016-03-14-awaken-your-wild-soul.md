@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-14T20:56:37.569Z'
-dateModified: '2016-03-14T20:07:09.043Z'
+datePublished: '2016-03-14T22:34:10.008Z'
+dateModified: '2016-03-14T21:05:56.572Z'
 title: Awaken Your Wild Soul
 author: []
 sourcePath: _posts/2016-03-14-awaken-your-wild-soul.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: awaken-your-wild-soul/index.html
-_type: Article
+_type: WebPage
 
 ---
 Awaken Your Wild Soul
