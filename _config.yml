@@ -23,7 +23,7 @@ color:
     - '#db7217'
     - '#ffffff'
   brandStrength: 1
-  lightness: 0
-  saturation: 0
+  lightness: 0.625
+  saturation: 0.375
   rhythmicContrast: 0.75
 purpose: []
