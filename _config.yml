@@ -1,7 +1,7 @@
 name: Keena
 favicon: null
-layout_spectrum: 0.1581
-typography_spectrum: 0.52
+layout_spectrum: 0
+typography_spectrum: 0.17528
 title: AWAKEN YOUR WILD SOUL with Keena
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71c71e'
-    - '#bd1153'
-    - '#0e7786'
-    - '#db7217'
-    - '#ffffff'
+    - '#201f1b'
+    - '#47484a'
+    - '#e2e2e4'
+    - '#67686c'
+    - '#b0b3b8'
   brandStrength: 1
-  lightness: 0.875
-  saturation: 0
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
