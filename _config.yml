@@ -1,8 +1,30 @@
-name: A-Keena
-favicon: null
-layout_spectrum: 0.99929
 typography_spectrum: 0.17528
-title: KEENA Paintings
+color:
+  brandColors:
+    - '#201f1b'
+    - '#47484a'
+    - '#e2e2e4'
+    - '#67686c'
+    - '#b0b3b8'
+  brandStrength: 1
+  lightness: 0.5268817
+  saturation: 0
+  rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.99929
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: A-Keena
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#201f1b'
-    - '#47484a'
-    - '#e2e2e4'
-    - '#67686c'
-    - '#b0b3b8'
-  brandStrength: 1
-  lightness: 0.5268817
-  saturation: 0
-  rhythmicContrast: 0.5
+title: 'KEENA '
 purpose: []
